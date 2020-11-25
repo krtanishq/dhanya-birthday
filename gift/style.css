@@ -163,21 +163,21 @@ padding: 0px 25px;
     padding-top:30px;
 }
 
-iframe{
+video{
     width: 80%;
-    height: 400px;
+/*     height: 400px; */
     display: block;
     margin-left: auto;
     margin-right: auto;
    border: none;
 }
-@media (max-width: 781px){
+/* @media (max-width: 781px){
     iframe{
        
         height: 250px;
 
 }
-}
+} */
 @media (max-width: 781px) {
     video{
         width: 80%;
