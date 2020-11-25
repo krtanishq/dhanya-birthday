@@ -167,6 +167,11 @@ body{
   margin-right: auto;
   border-radius: 10px;
 }
+@media (max-width: 362px){
+  .home img{
+    height:190px;
+  }
+}
 .home p{
     color:white;
     text-align: center;
