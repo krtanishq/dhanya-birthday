@@ -182,6 +182,7 @@ video{
 @media (max-width: 781px) {
     video{
         width: 80%;
+	    padding-top: 20px;
     }
 }
 .col-md-2 img{
